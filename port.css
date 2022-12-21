@@ -82,7 +82,6 @@ align-items: center;
     border-radius: 50px;
     text-decoration: none;
     color: #333;
-    transition: backgroung500ms ease;
 }
 
 .btn:hover {
