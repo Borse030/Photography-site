@@ -64,15 +64,6 @@ align-items: center;
     color: #888;
 }
 
-#landing-image {
-    background: url(./photography/camera.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 50vh;
-    flex: 0 1 60vw;
-    margin: 0;
-}
 
 .btn {
     padding: 0.5rem 2rem;
